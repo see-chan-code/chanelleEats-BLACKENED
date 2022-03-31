@@ -1,0 +1,14 @@
+{
+  "name": "chanelleats-capstone",
+  "version": "1.0.0",
+  "description": "BLACKENED food blog",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "see-chan-code",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
