@@ -1,0 +1,9 @@
+runtime: nodejs12
+
+handlers:
+- url: /stylesheets
+  static_dir: stylesheets
+- url: /images
+  static_dir: images
+- url: /maps
+  static_dir: maps  
